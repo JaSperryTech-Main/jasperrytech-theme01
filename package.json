@@ -1,0 +1,21 @@
+{
+  "name": "jasperrytech-theme01",
+  "displayName": "JaSperryTech's Theme01",
+  "description": "My Favorite (Custom, Hand-Made) Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Theme01",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Theme01-color-theme.json"
+      }
+    ]
+  }
+}
